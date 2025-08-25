@@ -9,5 +9,5 @@ resource "azurerm_resource_group" "rg" {
 }
 resource "azurerm_resource_group" "rg" {  
   name     = "second-rg"
-  location = "eastus2"
+  location = "eastus"
 }
